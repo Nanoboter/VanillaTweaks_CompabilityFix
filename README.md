@@ -3,7 +3,7 @@ This pack adds compability between many VanillaTweaks-packs, that are normally i
 
 
 | Header One     | Header Two     |
-|:-------------|:-------------|
+|:-------------:|:-------------:|
 | Item One       | Item Two       |
 
 
